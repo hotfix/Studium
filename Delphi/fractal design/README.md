@@ -5,6 +5,8 @@ Beispiel Anwendung für die grafische Darstellung der Fraktale Apfelmännchen un
 
 ## Screenshots
 
-![Apfelmännchen Fraktal](https://github.com/hotfix/Studium/blob/master/Delphi/mini%20dice/1.png)
+### Apfelmännchen Fraktal
+![Apfelmännchen Fraktal](https://github.com/hotfix/Studium/blob/master/Delphi/fractal%20design/2.png)
 
-![Juliamenge Fraktal](https://github.com/hotfix/Studium/blob/master/Delphi/mini%20dice/2.png)
+### Juliamenge Fraktal
+![Juliamenge Fraktal](https://github.com/hotfix/Studium/blob/master/Delphi/fractal%20design/1.png)
