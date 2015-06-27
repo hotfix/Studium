@@ -19,7 +19,7 @@ Wette 48,15 %.
 ## Screenshots
 
 ### Main windows
-![mini dice main windows](https://github.com/hotfix/Studium/blob/master/Delphi/mini%20dice/1.png)
+![mini dice main windows](https://github.com/hotfix/Studium/blob/master/Delphi/1.%20mini%20dice/1.png)
 
 ### Settings
-![mini dice settings](https://github.com/hotfix/Studium/blob/master/Delphi/mini%20dice/2.png)
+![mini dice settings](https://github.com/hotfix/Studium/blob/master/Delphi/1.%20mini%20dice/2.png)
