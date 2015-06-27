@@ -5,5 +5,7 @@ Beschreibung s. Wiki Seite: [Schlesische Lotterrie](https://de.wikipedia.org/wik
 ## Screenshots
 
 ### Main windows
-![mini dice main windows](https://github.com/hotfix/Studium/blob/master/Delphi/mini%20dice/1.png)
+![Schlesische Lotterrie windows](https://github.com/hotfix/Studium/blob/master/Delphi/4.%20schlesische%20lotterie/2.png)
+
+![Schlesische Lotterrie windows](https://github.com/hotfix/Studium/blob/master/Delphi/4.%20schlesische%20lotterie/1.png)
 
