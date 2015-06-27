@@ -10,5 +10,5 @@ Ein einfacher Musik Player mit folgenden Funktionen
 
 ## Screenshots
 
-![Musik Player](https://github.com/hotfix/Studium/blob/master/Delphi/8.%20morse%20code/1.png)
+![Musik Player](https://github.com/hotfix/Studium/blob/master/Delphi/7.%20audio%20player/1.PNG)
 
