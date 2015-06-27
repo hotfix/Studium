@@ -5,5 +5,5 @@ Beschreibung s. Wiki Seite: [Conways Spiel des Lebens](https://de.wikipedia.org/
 ## Screenshots
 
 ### Main windows
-![mini dice main windows](https://github.com/hotfix/Studium/blob/master/Delphi/mini%20dice/1.png)
+![Spiel des Lebens main windows](https://github.com/hotfix/Studium/blob/master/Delphi/3.%20spiel%20des%20lebens/1.png)
 
