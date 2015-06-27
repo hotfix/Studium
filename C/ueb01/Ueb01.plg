@@ -1,0 +1,89 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: Ueb01 - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\winf2862\LOCALS~1\Temp\RSPF1.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/Ueb01.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"H:\c\ueb01\Ueb01.c"
+]
+Creating command line "cl.exe @C:\DOCUME~1\winf2862\LOCALS~1\Temp\RSPF1.tmp" 
+Creating temporary file "C:\DOCUME~1\winf2862\LOCALS~1\Temp\RSPF2.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:console /incremental:yes /pdb:"Debug/Ueb01.pdb" /debug /machine:I386 /out:"Debug/Ueb01.exe" /pdbtype:sept 
+.\Debug\Ueb01.obj
+]
+Creating command line "link.exe @C:\DOCUME~1\winf2862\LOCALS~1\Temp\RSPF2.tmp"
+<h3>Output Window</h3>
+Compiling...
+Ueb01.c
+H:\c\ueb01\Ueb01.c(9) : error C2065: 'n' : undeclared identifier
+H:\c\ueb01\Ueb01.c(9) : error C2296: '/' : illegal, left operand has type 'char [31]'
+H:\c\ueb01\Ueb01.c(9) : error C2198: 'printf' : too few actual parameters
+H:\c\ueb01\Ueb01.c(10) : error C2296: '/' : illegal, left operand has type 'char [32]'
+H:\c\ueb01\Ueb01.c(10) : error C2198: 'printf' : too few actual parameters
+H:\c\ueb01\Ueb01.c(11) : error C2296: '/' : illegal, left operand has type 'char [31]'
+H:\c\ueb01\Ueb01.c(11) : error C2198: 'printf' : too few actual parameters
+H:\c\ueb01\Ueb01.c(12) : error C2296: '/' : illegal, left operand has type 'char [31]'
+H:\c\ueb01\Ueb01.c(12) : error C2198: 'printf' : too few actual parameters
+H:\c\ueb01\Ueb01.c(13) : error C2296: '/' : illegal, left operand has type 'char [32]'
+H:\c\ueb01\Ueb01.c(13) : error C2198: 'printf' : too few actual parameters
+H:\c\ueb01\Ueb01.c(14) : error C2296: '/' : illegal, left operand has type 'char [31]'
+H:\c\ueb01\Ueb01.c(14) : error C2198: 'printf' : too few actual parameters
+H:\c\ueb01\Ueb01.c(15) : error C2296: '/' : illegal, left operand has type 'char [29]'
+H:\c\ueb01\Ueb01.c(15) : error C2198: 'printf' : too few actual parameters
+H:\c\ueb01\Ueb01.c(16) : error C2296: '/' : illegal, left operand has type 'char [30]'
+H:\c\ueb01\Ueb01.c(16) : error C2198: 'printf' : too few actual parameters
+H:\c\ueb01\Ueb01.c(17) : warning C4129: ' ' : unrecognized character escape sequence
+H:\c\ueb01\Ueb01.c(17) : warning C4129: '_' : unrecognized character escape sequence
+H:\c\ueb01\Ueb01.c(17) : error C2296: '/' : illegal, left operand has type 'char [28]'
+H:\c\ueb01\Ueb01.c(17) : error C2198: 'printf' : too few actual parameters
+H:\c\ueb01\Ueb01.c(18) : error C2296: '/' : illegal, left operand has type 'char [28]'
+H:\c\ueb01\Ueb01.c(18) : error C2198: 'printf' : too few actual parameters
+H:\c\ueb01\Ueb01.c(19) : error C2296: '/' : illegal, left operand has type 'char [28]'
+H:\c\ueb01\Ueb01.c(19) : error C2198: 'printf' : too few actual parameters
+H:\c\ueb01\Ueb01.c(20) : warning C4129: '_' : unrecognized character escape sequence
+H:\c\ueb01\Ueb01.c(20) : error C2296: '/' : illegal, left operand has type 'char [29]'
+H:\c\ueb01\Ueb01.c(20) : error C2198: 'printf' : too few actual parameters
+H:\c\ueb01\Ueb01.c(21) : error C2296: '/' : illegal, left operand has type 'char [32]'
+H:\c\ueb01\Ueb01.c(21) : error C2198: 'printf' : too few actual parameters
+H:\c\ueb01\Ueb01.c(22) : warning C4129: ' ' : unrecognized character escape sequence
+H:\c\ueb01\Ueb01.c(22) : error C2296: '/' : illegal, left operand has type 'char [33]'
+H:\c\ueb01\Ueb01.c(22) : error C2198: 'printf' : too few actual parameters
+H:\c\ueb01\Ueb01.c(23) : error C2017: illegal escape sequence
+H:\c\ueb01\Ueb01.c(23) : error C2296: '/' : illegal, left operand has type 'char [2]'
+H:\c\ueb01\Ueb01.c(23) : error C2198: 'printf' : too few actual parameters
+H:\c\ueb01\Ueb01.c(24) : error C2296: '/' : illegal, left operand has type 'char [42]'
+H:\c\ueb01\Ueb01.c(24) : error C2198: 'printf' : too few actual parameters
+H:\c\ueb01\Ueb01.c(25) : error C2296: '/' : illegal, left operand has type 'char [40]'
+H:\c\ueb01\Ueb01.c(25) : error C2198: 'printf' : too few actual parameters
+H:\c\ueb01\Ueb01.c(26) : warning C4129: ' ' : unrecognized character escape sequence
+H:\c\ueb01\Ueb01.c(26) : error C2296: '/' : illegal, left operand has type 'char [35]'
+H:\c\ueb01\Ueb01.c(26) : error C2198: 'printf' : too few actual parameters
+H:\c\ueb01\Ueb01.c(27) : warning C4129: '_' : unrecognized character escape sequence
+H:\c\ueb01\Ueb01.c(27) : error C2296: '/' : illegal, left operand has type 'char [31]'
+H:\c\ueb01\Ueb01.c(27) : error C2198: 'printf' : too few actual parameters
+H:\c\ueb01\Ueb01.c(28) : error C2296: '/' : illegal, left operand has type 'char [28]'
+H:\c\ueb01\Ueb01.c(28) : error C2198: 'printf' : too few actual parameters
+H:\c\ueb01\Ueb01.c(29) : warning C4129: '|' : unrecognized character escape sequence
+H:\c\ueb01\Ueb01.c(29) : error C2296: '/' : illegal, left operand has type 'char [23]'
+H:\c\ueb01\Ueb01.c(29) : error C2198: 'printf' : too few actual parameters
+H:\c\ueb01\Ueb01.c(30) : error C2296: '/' : illegal, left operand has type 'char [20]'
+H:\c\ueb01\Ueb01.c(30) : error C2198: 'printf' : too few actual parameters
+H:\c\ueb01\Ueb01.c(31) : error C2296: '/' : illegal, left operand has type 'char [16]'
+H:\c\ueb01\Ueb01.c(31) : error C2198: 'printf' : too few actual parameters
+H:\c\ueb01\Ueb01.c(32) : error C2296: '/' : illegal, left operand has type 'char [12]'
+H:\c\ueb01\Ueb01.c(32) : error C2198: 'printf' : too few actual parameters
+Error executing cl.exe.
+
+
+
+<h3>Results</h3>
+Ueb01.exe - 50 error(s), 7 warning(s)
+</pre>
+</body>
+</html>

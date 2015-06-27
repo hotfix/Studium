@@ -1,0 +1,8 @@
+CC = gcc
+CCPARAMS = -Wall -Werror -pedantic -ansi
+SRC = http.c
+
+all : ueb06
+
+ueb06 : $(SRC)
+	$(CC) $(CCPARAMS) -o $@ $(SRC)

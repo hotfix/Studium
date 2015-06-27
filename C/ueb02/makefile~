@@ -1,0 +1,8 @@
+CC = gcc
+CCPARAMS = -Wall -Werror -pedantic -ansi
+SRC = ueb02.c
+
+all : Ueb02
+
+Ueb02 : $(SRC)
+	$(CC) $(CCPARAMS) -o $@ $(SRC)
