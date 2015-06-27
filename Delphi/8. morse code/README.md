@@ -1,19 +1,11 @@
-# Medien Verwaltungssystem 2.0
+# Morse Code Creater
 
-Erweiterte Variante des [Medien Verwaltungssystem](https://github.com/hotfix/Studium/tree/master/Delphi/5.%20medien%20verwaltung) 
-
-zusatzliche Funktionen
-- Speichern der Medienliste
-- exportieren  der Medienliste in simples HTML
-- ..
+Morse Code Ubersetzer. Mit diesem einfachem Programm ist es moglich Worter ins Morse Code und zuruck zu ubersetzen
 
 
 
 ## Screenshots
 
 ### Main window
-![Medien Verwaltungssystem window](https://github.com/hotfix/Studium/blob/master/Delphi/6.%20medien%20verwaltung/1.png)
-
-### HTML export
-![HTML export](https://github.com/hotfix/Studium/blob/master/Delphi/6.%20medien%20verwaltung/2.png)
+![morse code](https://github.com/hotfix/Studium/blob/master/Delphi/8.%20morse%20code/1.png)
 
