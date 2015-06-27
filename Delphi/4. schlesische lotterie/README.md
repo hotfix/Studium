@@ -1,6 +1,6 @@
-# Spiel des Lebens
+# Schlesische Lotterrie
 
-Beschreibung s. Wiki Seite: [Conways Spiel des Lebens](https://de.wikipedia.org/wiki/Conways_Spiel_des_Lebens)
+Beschreibung s. Wiki Seite: [Schlesische Lotterrie](https://de.wikipedia.org/wiki/Schlesische_Lotterie)
 
 ## Screenshots
 
